@@ -677,4 +677,7 @@ body{
             width: 38px;
             height: 38px;
         }
+        #titulos_Ofertas{
+            font: 11px cerapro, arial, sans-serif;
+        }
     }
