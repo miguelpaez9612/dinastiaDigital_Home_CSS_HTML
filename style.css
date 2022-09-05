@@ -625,6 +625,9 @@
             top: 7.2%; 
             left: 92%;
         }
+        .divs_imgs_carrusel_1{
+            background-color: orange;
+        }
     }
 /* celular pequeño de 0 a 300px*/
     @media (max-width: 300px) { 
@@ -755,5 +758,8 @@
         }
         #titulos_Ofertas{
             font: 11px cerapro, arial, sans-serif;
+        }
+        .divs_imgs_carrusel_1{
+            background-color: green;
         }
     }
