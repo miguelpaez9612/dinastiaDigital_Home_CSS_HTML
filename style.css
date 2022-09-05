@@ -319,7 +319,7 @@ body{
             background-color: transparent;
         }
         #carrusel_divs_2::-webkit-scrollbar-thumb {
-            background-color: #f0f2f6;
+            background-color: #ececed;
         }
         .divs_imgs_carrusel_1{
             width:25vh;
